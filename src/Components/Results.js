@@ -18,6 +18,4 @@ function Results({ results, openPopup }) {
         </section>
     )
 };
-
-// Export the Results component as the default export of this file
 export default Results

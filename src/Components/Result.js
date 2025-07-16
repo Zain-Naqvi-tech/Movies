@@ -15,4 +15,4 @@ function Result({ result, openPopup }) {
     )
 }
 
-export default Result; // Export the Result component as the default export of this file\\\
+export default Result; // Export the Result component as the default export of this file

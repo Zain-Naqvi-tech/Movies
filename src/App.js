@@ -43,7 +43,7 @@ function App() {
   });
 
   // The base URL for the OMDB API 
-  const apiURL = "http://www.omdbapi.com/?apikey=8fd52451";
+  const apiURL = "https://www.omdbapi.com/?apikey=8fd52451";
 
   // Function to handle the search when the user presses Enter in the search box
   const search = (e) => {
